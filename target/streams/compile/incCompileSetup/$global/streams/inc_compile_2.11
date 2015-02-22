@@ -1,0 +1,494 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/Boot$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/Boot$delayedInit$body.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/Boot.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/DBConfig$class.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/DBConfig.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/Mapper$class.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/Mapper.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Task$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Task.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks$$anonfun$$times$1.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks$$anonfun$1.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$$anonfun$2.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$$anonfun$3.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7$$anonfun$1.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask$$anonfun$apply$4$$anonfun$apply$5.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask$$anonfun$apply$4.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask$$anonfun$apply$2$$anonfun$apply$3.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask$$anonfun$apply$2.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTasks$$anonfun$apply$1.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTasks$.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTasks.class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService.class
+binary dependencies:
+25 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/.ivy2/cache/com.github.finagle/finch-core_2.11/jars/finch-core_2.11-0.5.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/.ivy2/cache/com.twitter/finagle-core_2.11/jars/finagle-core_2.11-6.24.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/.ivy2/cache/com.twitter/finagle-httpx_2.11/jars/finagle-httpx_2.11-6.24.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/.ivy2/cache/com.twitter/util-core_2.11/jars/util-core_2.11-6.23.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> /home/stanislav/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> /home/stanislav/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> /home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> /home/stanislav/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.4.4.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> /home/stanislav/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.4.4.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> /home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/com.github.finagle/finch-core_2.11/jars/finch-core_2.11-0.5.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/com.github.finagle/finch-jackson_2.11/jars/finch-jackson_2.11-0.5.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/com.twitter/finagle-core_2.11/jars/finagle-core_2.11-6.24.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/com.twitter/finagle-httpx_2.11/jars/finagle-httpx_2.11-6.24.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/com.twitter/util-core_2.11/jars/util-core_2.11-6.23.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+2 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> com.itrative.Boot
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> com.itrative.Boot$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> com.itrative.Boot$delayedInit$body
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> com.itrative.config.DBConfig
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> com.itrative.config.DBConfig$class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> com.itrative.config.Mapper
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> com.itrative.config.Mapper$class
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com.itrative.model.Task
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com.itrative.model.Task$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com.itrative.model.Tasks
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com.itrative.model.Tasks$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com.itrative.model.Tasks$$anonfun$$times$1
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com.itrative.model.Tasks$$anonfun$1
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$$anonfun$2
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$$anonfun$3
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$CreateTask
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$CreateTask$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$CreateTask$$anonfun$apply$6
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7$$anonfun$1
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$DeleteTask
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$DeleteTask$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$DeleteTask$$anonfun$apply$4
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$DeleteTask$$anonfun$apply$4$$anonfun$apply$5
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTask
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTask$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTask$$anonfun$apply$2
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTask$$anonfun$apply$2$$anonfun$apply$3
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTasks
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTasks$
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com.itrative.services.TaskService$GetTasks$$anonfun$apply$1
+used names:
+243 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> $conforms
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> <init>
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> App
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> Await
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> Boot
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> Httpx
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> Predef
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> TaskService
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> com
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> endpointToService
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> finagle
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> finch
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> itrative
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> package
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> ready
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> route
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> serve
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> services
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> twitter
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> util
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> AnyRef
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> ConfigFactory
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> DBConfig
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> Database
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> JdbcBackend
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> com
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> config
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> db
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> forURL
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> getConfig
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> getString
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> itrative
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> jdbc
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> load
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> profile
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> slick
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> typesafe
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> x$1
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> x$2
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> x$3
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> x$4
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> x$5
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> <init>
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> AnyRef
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> DefaultScalaModule
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> DeserializationFeature
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> Mapper
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> ObjectMapper
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> com
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> config
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> configure
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> databind
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> fasterxml
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> itrative
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> jackson
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> module
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> objectMapper
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> registerModule
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> &&
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> <>
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> <init>
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> ==
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> AbstractFunction4
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> AnyRef
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> AutoInc
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Boolean
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> ClassTag
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Column
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Long
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> MappedProjection
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> MySQLDriver
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> None
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> NotNull
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Nullable
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> O
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Option
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Predef
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> PrimaryKey
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Product
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> ProvenShape
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> ScalaRunTime
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Serializable
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Shape
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> String
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Table
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> TableQuery
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Tag
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Task
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> Tasks
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> TypedType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> _hashCode
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> _toString
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> anyToToShapedValue
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> apply
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> asInstanceOf
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> ast
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> booleanColumnType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> column
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> columnShape
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> com
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> description
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> done
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> driver
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> eq
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> id
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> isInstanceOf
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> itrative
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> lifted
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> longColumnType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> mappedProjectionShape
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> materializeClassTag
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> model
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> name
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> package
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> proveShapeOf
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> q
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> runtime
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> simple
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> slick
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> stringColumnType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> tag
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> toString
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> tuple4Shape
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> tupled
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> typedProductIterator
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> typedTypeToOptionTypedType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> ||
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> $conforms
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> &&
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> +=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> /
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> />
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> <init>
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> ==
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> ===
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> AbstractFunction0
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> AbstractFunction1
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> AnyOps
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> BooleanOptionColumnCanBeQueryCondition
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> CanBeQueryCondition
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> ClassTag
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Column
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> CreateTask
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> DBConfig
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Delete
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> DeleteTask
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Endpoint
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Get
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> GetTask
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> GetTasks
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> HttpRequest
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> HttpResponse
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Long
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Mapper
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> MySQLDriver
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> None
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Ok
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Option
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> OptionMapper2
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Post
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Predef
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Product
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> RequiredBody
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> ScalaRunTime
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Serializable
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Service
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Session
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Statics
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Task
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> TaskService
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> Tasks
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> TypedType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> _hashCode
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> anyToConcreteEncode
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> apply
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> as
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> asInstanceOf
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> ast
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> autoinc
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> columnShape
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> com
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> config
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> db
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> decodeJackson
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> delete
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> driver
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> encodeJackson
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> eq
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> filter
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> finagle
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> finalizeHash
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> finch
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> getOptionMapper2OO
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> headOption
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> id
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> io
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> isInstanceOf
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> itrative
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> jackson
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> lifted
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> list
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> long
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> longColumnType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> longHash
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> magnetFromAnyDecode
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> map
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> materializeClassTag
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> mix
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> model
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> objectMapper
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> optionColumnExtensionMethods
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> package
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> q
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> queryToAppliedQueryInvoker
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> queryToDeleteInvoker
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> queryToInsertInvoker
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> req
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> request
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> response
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> returning
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> route
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> runtime
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> scala
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> services
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> session
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> simple
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> slick
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> stringToMatcher
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> task
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> taskReader
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> toFuture
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> toString
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> twitter
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> typedProductIterator
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> typedTypeToOptionTypedType
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> valueToConstColumn
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> withSession
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> |
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> ||
+product stamps:
+34 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/Boot$.class -> lastModified(1424115320000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/Boot$delayedInit$body.class -> lastModified(1424115320000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/Boot.class -> lastModified(1424115320000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/DBConfig$class.class -> lastModified(1424109710000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/DBConfig.class -> lastModified(1424109710000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/Mapper$class.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/config/Mapper.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Task$.class -> lastModified(1424112886000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Task.class -> lastModified(1424112886000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks$$anonfun$$times$1.class -> lastModified(1424112886000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks$$anonfun$1.class -> lastModified(1424112886000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks$.class -> lastModified(1424112886000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/model/Tasks.class -> lastModified(1424112886000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$$anonfun$2.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$$anonfun$3.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7$$anonfun$1.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$$anonfun$apply$6.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask$.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$CreateTask.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask$$anonfun$apply$4.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask$.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$DeleteTask.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask$$anonfun$apply$2.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask$.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTask.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTasks$$anonfun$apply$1.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTasks$.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService$GetTasks.class -> lastModified(1424115319000)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/target/scala-2.11/classes/com/itrative/services/TaskService.class -> lastModified(1424115319000)
+source stamps:
+5 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> hash(79f0cfb43c01693def5fa72792bd460ce855d625)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> hash(08ec3a10b11b08b6819bd036943ec4dc261554eb)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> hash(d4934a5347384fb1a8b54a4acadaaf899dc3217f)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> hash(114d8bc88fa03a55e8efe5cbc49dbf2af1fb8149)
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> hash(d7100f4101c867b4d9171f03a1ad62c8b2ccc887)
+binary stamps:
+11 items
+/home/stanislav/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.4.4.jar -> lastModified(1416882541000)
+/home/stanislav/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.4.4.jar -> lastModified(1417495280000)
+/home/stanislav/.ivy2/cache/com.github.finagle/finch-core_2.11/jars/finch-core_2.11-0.5.0.jar -> lastModified(1423813194000)
+/home/stanislav/.ivy2/cache/com.github.finagle/finch-jackson_2.11/jars/finch-jackson_2.11-0.5.0.jar -> lastModified(1423813157000)
+/home/stanislav/.ivy2/cache/com.twitter/finagle-core_2.11/jars/finagle-core_2.11-6.24.0.jar -> lastModified(1418425140000)
+/home/stanislav/.ivy2/cache/com.twitter/finagle-httpx_2.11/jars/finagle-httpx_2.11-6.24.0.jar -> lastModified(1418425117000)
+/home/stanislav/.ivy2/cache/com.twitter/util-core_2.11/jars/util-core_2.11-6.23.0.jar -> lastModified(1418423837000)
+/home/stanislav/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar -> lastModified(1407138707000)
+/home/stanislav/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042454000)
+/home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+/usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar -> lastModified(1413958545000)
+class names:
+11 items
+/home/stanislav/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.4.4.jar -> com.fasterxml.jackson.databind.ObjectMapper
+/home/stanislav/.ivy2/cache/com.fasterxml.jackson.module/jackson-module-scala_2.11/bundles/jackson-module-scala_2.11-2.4.4.jar -> com.fasterxml.jackson.module.scala.DefaultScalaModule$
+/home/stanislav/.ivy2/cache/com.github.finagle/finch-core_2.11/jars/finch-core_2.11-0.5.0.jar -> io.finch.package$
+/home/stanislav/.ivy2/cache/com.github.finagle/finch-jackson_2.11/jars/finch-jackson_2.11-0.5.0.jar -> io.finch.jackson.package$
+/home/stanislav/.ivy2/cache/com.twitter/finagle-core_2.11/jars/finagle-core_2.11-6.24.0.jar -> com.twitter.finagle.Server
+/home/stanislav/.ivy2/cache/com.twitter/finagle-httpx_2.11/jars/finagle-httpx_2.11-6.24.0.jar -> com.twitter.finagle.httpx.Request
+/home/stanislav/.ivy2/cache/com.twitter/util-core_2.11/jars/util-core_2.11-6.23.0.jar -> com.twitter.util.Await$
+/home/stanislav/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar -> scala.slick.ast.TypedType$
+/home/stanislav/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/home/stanislav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.App
+/usr/lib64/jvm/java-1.8.0-openjdk-1.8.0/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDwgvsPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDGnmzJ0AAZub3RpZnlzcQB+AAzU8USydAAEd2FpdHNxAH4ADJcs69B0AA0kYXNJbnN0YW5jZU9mc3EAfgAM61sJWXQABEJvb3RzcQB+AAxux8QpdAAGZXF1YWxzc3EAfgAMZ9eybnQADGFzSW5zdGFuY2VPZnNxAH4ADJF0j590AA5leGVjdXRpb25TdGFydHNxAH4ADAaXppl0AAxzeW5jaHJvbml6ZWRzcQB+AAysYNfhdAANJGlzSW5zdGFuY2VPZnNxAH4ADIQ+dpt0AARtYWluc3EAfgAM91EJMHQACW5vdGlmeUFsbHNxAH4ADKwxMkt0AAxpc0luc3RhbmNlT2ZzcQB+AAwnodaudAACPT1zcQB+AAx1Nw+JdAAFY2xvbmVzcQB+AAzazhzEdAAIdG9TdHJpbmdzcQB+AAyjSdsKdAAEYXJnc3NxAH4ADLTqOgZ0AAIhPXNxAH4ADG6PqAx0AAhnZXRDbGFzc3NxAH4ADK3CV390AAJuZXNxAH4ADFi90wB0AAJlcXNxAH4ADNfaAx50AAtkZWxheWVkSW5pdHNxAH4ADIyuWyx0AAIjI3NxAH4ADC0mNdJ0AAhmaW5hbGl6ZXNxAH4ADOYOO/x0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABFjb20uaXRyYXRpdmUuQm9vdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AYQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBoc3EAfgBhAXVxAH4AQgAAAABwc3EAfgBhAXVxAH4AQgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASHEAfgBRdXEAfgBSAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AcnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3EAfgB/dAAEVW5pdHEAfgCFdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AWnQABVBsYWlucQB+AC1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGdzcQB+AH90AAVBcnJheXEAfgCFdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AH90AAZTdHJpbmdzcQB+AINzcQB+AIZ1cQB+AIkAAAADc3EAfgCLdAAEamF2YXNxAH4Ai3QABGxhbmdxAH4AkHBzcQB+AGEBdXEAfgCnAAAABHNxAH4Af3QAA0FwcHEAfgCFc3EAfgB/dAALRGVsYXllZEluaXRxAH4AhXNxAH4Af3QABk9iamVjdHEAfgCrc3EAfgB/dAADQW55cQB+AIVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADGNvbS5pdHJhdGl2ZXNxAH4AvnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PjQxV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABSL2hvbWUvc3RhbmlzbGF2L3dvcmtzcGFjZS9za2VsZXRvbnMvZmluY2gtc3ByYXktcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHnwz7Q8AWk971+nJ5K9RgzoVdYl
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCGrorOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOYhcz10AAZub3RpZnlzcQB+AAzVMsLNdAAEd2FpdHNxAH4ADG96Mft0AA0kYXNJbnN0YW5jZU9mc3EAfgAMDldrg3QABmVxdWFsc3NxAH4ADG4h6Fh0AAxhc0luc3RhbmNlT2ZzcQB+AAzKukJZdAAMc3luY2hyb25pemVkc3EAfgAMjgqJVHQAAmRic3EAfgAMaM3BU3QADSRpc0luc3RhbmNlT2ZzcQB+AAwRo0JHdAAGY29uZmlnc3EAfgAMvhNzX3QACW5vdGlmeUFsbHNxAH4ADEsjGoJ0AAxpc0luc3RhbmNlT2ZzcQB+AAzc/ILadAAHcHJvZmlsZXNxAH4ADHaBGtN0AAI9PXNxAH4ADEH7gmZ0AAVjbG9uZXNxAH4ADLTI5mp0AAYkaW5pdCRzcQB+AAyOrsOOdAAIREJDb25maWdzcQB+AAxtN5cvdAAIdG9TdHJpbmdzcQB+AAzT8DS6dAACIT1zcQB+AAyXZ3lUdAAIZ2V0Q2xhc3NzcQB+AAwYjet2dAACbmVzcQB+AAzgw+g4dAACZXFzcQB+AAww0DNJdAACIyNzcQB+AAxluCdfdAAIZmluYWxpemVzcQB+AAwxsPlodAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAcY29tLml0cmF0aXZlLmNvbmZpZy5EQkNvbmZpZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXwBwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXEAfgBCAAAAAHNxAH4AXwBwc3EAfgBkdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNjb20uaXRyYXRpdmUuY29uZmlnc3EAfgCVdAAMY29tLml0cmF0aXZlc3EAfgCVdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLk42MjXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFIvaG9tZS9zdGFuaXNsYXYvd29ya3NwYWNlL3NrZWxldG9ucy9maW5jaC1zcHJheS1yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCOw6ELEbCLaBm9A2lD7E3CYVVOs=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDaVxCJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCpLW4XQADG9iamVjdE1hcHBlcnVxAH4ACQAAABVzcQB+AAsjJT9+dAAGbm90aWZ5c3EAfgALaMZ+DHQABHdhaXRzcQB+AAvGWaT8dAANJGFzSW5zdGFuY2VPZnNxAH4AC9XpoXB0AAZlcXVhbHNzcQB+AAv3NK/LdAAMYXNJbnN0YW5jZU9mc3EAfgALtuKQPnQADHN5bmNocm9uaXplZHNxAH4ACwOZBZ50AA0kaXNJbnN0YW5jZU9mc3EAfgAL2zMrd3QABk1hcHBlcnNxAH4AC+gctlN0AAlub3RpZnlBbGxzcQB+AAvwTrYIdAAMaXNJbnN0YW5jZU9mc3EAfgALKdqUlHQAAj09c3EAfgAL9mTJYXQABWNsb25lc3EAfgALeMLfenQABiRpbml0JHNxAH4AC+ZvjHJ0AAh0b1N0cmluZ3NxAH4ACyJTha50AAIhPXNxAH4ACwD8lHB0AAhnZXRDbGFzc3NxAH4ACy2+Qzx0AAJuZXNxAH4AC6Y8jRF0AAJlcXNxAH4AC2oyls90AAIjI3NxAH4AC8Bs/Q50AAhmaW5hbGl6ZXNxAH4AC7xTF7l0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABpjb20uaXRyYXRpdmUuY29uZmlnLk1hcHBlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWwBwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ABNjb20uaXRyYXRpdmUuY29uZmlnc3EAfgCRdAAMY29tLml0cmF0aXZlc3EAfgCRdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLk+Mrx3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFIvaG9tZS9zdGFuaXNsYXYvd29ya3NwYWNlL3NrZWxldG9ucy9maW5jaC1zcHJheS1yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1JNKU0c4T7GotUpKytqviZ3DIX8=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCt+21jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPQDWfp0AAZub3RpZnlzcQB+AAwnkedgdAAEbmFtZXNxAH4ADLTSQRd0AAR3YWl0c3EAfgAMAR4J4XQAASpzcQB+AAyR8U0VdAAOY29weSRkZWZhdWx0JDJzcQB+AAzqvn9/dAANJGFzSW5zdGFuY2VPZnNxAH4ADB4i2M50AAxwcm9kdWN0QXJpdHlzcQB+AAwJZNM3dAAGZXF1YWxzc3EAfgAM7whbrXQAFGZvcmVpZ25LZXkkZGVmYXVsdCQ1c3EAfgAMpj3oo3QAC2Rlc2NyaXB0aW9uc3EAfgAMVy6nZXQAB2luZGV4ZXNzcQB+AAzjm/KWdAAMYXNJbnN0YW5jZU9mc3EAfgAMglU1gXQAEHRhYmxlQ29uc3RyYWludHNzcQB+AAzgoSX0dAAKZm9yZWlnbktleXNxAH4ADKFy+n50AAxzeW5jaHJvbml6ZWRzcQB+AAwKegY9dAANJGlzSW5zdGFuY2VPZnNxAH4ADIYx0h50AAllbmNvZGVSZWZzcQB+AAxJ1kbIdAALcHJpbWFyeUtleXNzcQB+AAyGM3S7dAAJdGFibGVOb2Rlc3EAfgAMkTMuT3QACGNhbkVxdWFsc3EAfgAMMHTk7nQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMzMM9hHQADXRhYmxlUHJvdmlkZXJzcQB+AAwhh2LydAANcHJvZHVjdFByZWZpeHNxAH4ADM6ORSF0AAVUYXNrc3NxAH4ADMtj//50AAtmb3JlaWduS2V5c3NxAH4ADPuSqGR0AAlub3RpZnlBbGxzcQB+AAz8nzYldAAKcHJpbWFyeUtleXNxAH4ADPjh5yB0AAxpc0luc3RhbmNlT2ZzcQB+AAwGSAoYdAAUZm9yZWlnbktleSRkZWZhdWx0JDZzcQB+AAxT4fREdAAGPGluaXQ+c3EAfgAMT8hteXQAAmlkc3EAfgAMoAnZlnQAAXFzcQB+AAw02SUTdAAKc2NoZW1hTmFtZXNxAH4ADPKmav50AAhjcmVhdGVfKnNxAH4ADCtLTtJ0AAl0YWJsZU5hbWVzcQB+AAweC9GrdAAIdGFibGVUYWdzcQB+AAwcSBfvdAACPT1zcQB+AAz/n9c0dAAFY2xvbmVzcQB+AAz+r8o6dAAGdG9Ob2Rlc3EAfgAMlKyeUnQAE2NvbGxlY3RGaWVsZFN5bWJvbHNzcQB+AAwhaHgadAAQVGFibGVFbGVtZW50VHlwZXNxAH4ADIU26ZN0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADI7SxDp0AARjb3B5c3EAfgAMGdfb5nQABGRvbmVzcQB+AAy59VqmdAAGY29sdW1uc3EAfgAMmb3bsnQACHRvU3RyaW5nc3EAfgAMsViERnQAD2luZGV4JGRlZmF1bHQkM3NxAH4ADFUZBEV0AAIhPXNxAH4ADFUk66N0AAhnZXRDbGFzc3NxAH4ADCpIsEp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADEaW2V90ABN0YWJsZUlkZW50aXR5U3ltYm9sc3EAfgAMLgSNenQAAm5lc3EAfgAMjbzhP3QAAU9zcQB+AAzq4LnidAACZXFzcQB+AAw31e3KdAAEVGFza3NxAH4ADMTEmpB0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyJh5wudAACIyNzcQB+AAw9uNl7dAAIZmluYWxpemVzcQB+AAzurS8mdAAFaW5kZXhzcQB+AAyud57ZdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAz6x0lVdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY29tLml0cmF0aXZlLm1vZGVsLlRhc2t1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AqQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AkUwACWluaGVyaXRlZHEAfgCRTAAHcGFyZW50c3EAfgCReHEAfgCwc3EAfgCpAXVxAH4AjAAAAABwc3EAfgCpAXVxAH4AjAAAAABwc3EAfgCpAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ar3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ar3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AyXNxAH4AvHEAfgC/c3EAfgDAc3EAfgDDdXEAfgDGAAAAA3NxAH4AyHQABGphdmFzcQB+AMh0AAJpb3EAfgDNc3EAfgC8dAAHUHJvZHVjdHEAfgDCc3EAfgC8dAAGRXF1YWxzcQB+AMJzcQB+ALx0AAZPYmplY3RzcQB+AMBzcQB+AMN1cQB+AMYAAAADc3EAfgDIcQB+ANNzcQB+AMh0AARsYW5ncQB+AM1zcQB+ALx0AANBbnlxAH4AwnBwc3EAfgCOcQB+AJt1cQB+AJwAAAAAc3EAfgCeAHQAGGNvbS5pdHJhdGl2ZS5tb2RlbC5UYXNrc3VxAH4AoQAAAABxAH4ApXVxAH4ApwAAAABzcQB+AKkBcQB+ALFwc3EAfgCpAXNxAH4As3NxAH4AqQF1cQB+AIwAAAAAcHNxAH4AqQF1cQB+AIwAAAAAcHNxAH4AqQF1cQB+ALoAAAAFc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgC9WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCvc3EAfgC8dAAFVGFibGVzcQB+ALx0AAtNeVNRTERyaXZlcnNxAH4AvHQABmRyaXZlcnNxAH4AvHQABXNsaWNrc3EAfgC8cQB+AMtzcQB+AMBzcQB+AMN1cQB+AMYAAAABcQB+AM11cQB+ALoAAAABc3EAfgC8dAAEVGFza3NxAH4AwHNxAH4Aw3VxAH4AxgAAAARzcQB+AMh0AANjb21zcQB+AMh0AAhpdHJhdGl2ZXNxAH4AyHQABW1vZGVscQB+AM1zcQB+APNzcQB+ALx0AA1BYnN0cmFjdFRhYmxlc3EAfgDAc3EAfgDDdXEAfgDGAAAABHNxAH4AyHEAfgDLc3EAfgDIdAAFc2xpY2tzcQB+AMh0AAZsaWZ0ZWRxAH4AzXVxAH4AugAAAAFxAH4BA3NxAH4A83NxAH4AvHQAA1JlcHEAfgERdXEAfgC6AAAAAXEAfgEDc3EAfgC8cQB+ANtzcQB+AMBzcQB+AMN1cQB+AMYAAAADc3EAfgDIcQB+ANNzcQB+AMhxAH4A4XEAfgDNc3EAfgC8cQB+AONzcQB+AMBzcQB+AMN1cQB+AMYAAAACc3EAfgDIcQB+AMtxAH4AzXBwc3EAfgCOcQB+AJt1cQB+AJwAAAAAc3EAfgCeAHQAGGNvbS5pdHJhdGl2ZS5tb2RlbC5UYXNrc3VxAH4AoQAAAAB+cQB+AKN0AAZNb2R1bGV1cQB+AKcAAAAAc3EAfgCpAXEAfgCxcHNxAH4AqQFzcQB+ALNzcQB+AKkBdXEAfgCMAAAAAHBzcQB+AKkBdXEAfgCMAAAAAHBzcQB+AKkBdXEAfgC6AAAAAnNxAH4AvHEAfgDbc3EAfgDAc3EAfgDDdXEAfgDGAAAAA3NxAH4AyHEAfgDTc3EAfgDIcQB+AOFxAH4AzXNxAH4AvHEAfgDjc3EAfgDAc3EAfgDDdXEAfgDGAAAAAnNxAH4AyHEAfgDLcQB+AM1wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADGNvbS5pdHJhdGl2ZXNxAH4BR3QAEmNvbS5pdHJhdGl2ZS5tb2RlbHNxAH4BR3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5O+CNl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABSL2hvbWUvc3RhbmlzbGF2L3dvcmtzcGFjZS9za2VsZXRvbnMvZmluY2gtc3ByYXktcmVzdC1hcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBFNi8iPoDpV6O/ly8Sdvyrx+4FJ
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDZm/FRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjiKFvnQADG9iamVjdE1hcHBlcnVxAH4ACQAAADBzcQB+AAsXxjb+dAAGbm90aWZ5c3EAfgALVwaH9nQAB3VuYXBwbHlzcQB+AAudXBdtdAAKQ3JlYXRlVGFza3NxAH4AC7p4mSR0AAR3YWl0c3EAfgALf7rZm3QADSRhc0luc3RhbmNlT2ZzcQB+AAt0S+iXdAAKRGVsZXRlVGFza3NxAH4AC5AWSCR0AAdjb21wb3Nlc3EAfgALHvnk0HQAA21hcHNxAH4AC3ylhBR0AAxwcm9kdWN0QXJpdHlzcQB+AAue+I1fdAAGZXF1YWxzc3EAfgALztpRAHQACnRhc2tSZWFkZXJzcQB+AAsUdaG7dAAMYXNJbnN0YW5jZU9mc3EAfgALjosQl3QADHN5bmNocm9uaXplZHNxAH4AC8l8Ol90AAJkYnNxAH4AC8DCh1V0AA0kaXNJbnN0YW5jZU9mc3EAfgALID96W3QAB2FuZFRoZW5zcQB+AAu1gdnHdAAIY2FuRXF1YWxzcQB+AAs41k/mdAAGY29uZmlnc3EAfgALJX3qPHQADXByb2R1Y3RQcmVmaXhzcQB+AAtEM5vidAAJbm90aWZ5QWxsc3EAfgALxmuUdHQAC3JlYWRSZXNvbHZlc3EAfgALPsyAG3QADGlzSW5zdGFuY2VPZnNxAH4AC3F53H90AAY8aW5pdD5zcQB+AAswATjSdAACaWRzcQB+AAuXaHxYdAAHcHJvZmlsZXNxAH4ACw2KtGx0AAVhcHBseXNxAH4AC6PE5C10AAI9PXNxAH4AC9MFt0h0AAVjbG9uZXNxAH4AC48CXTJ0AAZzdGF0dXNzcQB+AAvhe/medAAHR2V0VGFza3NxAH4ACwPtLgF0AARjb3B5c3EAfgAL4jANYXQACHRvU3RyaW5nc3EAfgALD4ttwHQAC2lzQXZhaWxhYmxlc3EAfgALKQPUwHQAAiE9c3EAfgAL05MuM3QABXJvdXRlc3EAfgALAyfnqXQAB3JlbGVhc2VzcQB+AAuMB4dOdAAIZ2V0Q2xhc3NzcQB+AAt1xw7jdAAOY29weSRkZWZhdWx0JDFzcQB+AAvijJnWdAAFY2xvc2VzcQB+AAvibU6kdAALVGFza1NlcnZpY2VzcQB+AAs3m0+zdAACbmVzcQB+AAv5KwOWdAACZXFzcQB+AAsKsU+rdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALguwA33QAAiMjc3EAfgAL3x7pRnQACGZpbmFsaXplc3EAfgALHr3JW3QADnByb2R1Y3RFbGVtZW50c3EAfgALC9gr+nQACGhhc2hDb2Rlc3EAfgALztJeK3QACEdldFRhc2tzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AeXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAIWNvbS5pdHJhdGl2ZS5zZXJ2aWNlcy5UYXNrU2VydmljZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJEAcHNxAH4AlnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB5TAAJaW5oZXJpdGVkcQB+AHlMAAdwYXJlbnRzcQB+AHl4cQB+AJpzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVxAH4AdAAAAABzcQB+AJEAcHNxAH4AlnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmXQACERCQ29uZmlnc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCZc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANjb21zcQB+ALZ0AAhpdHJhdGl2ZXNxAH4AtnQABmNvbmZpZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC3c3EAfgCqdAAGTWFwcGVycQB+ALBzcQB+AKp0AAZPYmplY3RzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2dAAEamF2YXNxAH4AtnQABGxhbmdxAH4Av3NxAH4AqnQAA0FueXNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZ0AAVzY2FsYXEAfgC/dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAMY29tLml0cmF0aXZlc3EAfgDUdAAVY29tLml0cmF0aXZlLnNlcnZpY2Vzc3EAfgDUdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLk+Mrx3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFIvaG9tZS9zdGFuaXNsYXYvd29ya3NwYWNlL3NrZWxldG9ucy9maW5jaC1zcHJheS1yZXN0LWFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1xAPQQHIZ7TZFx8Doa1iyLLMyIc=
+external apis:
+0 items
+source infos:
+5 items
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/Boot.scala -> 
+AAAAAAAAAAA=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/DBConfig.scala -> 
+AAAAAAAAAAA=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/config/Mapper.scala -> 
+AAAAAAAAAAA=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/model/Task.scala -> 
+AAAAAAAAAAA=
+/home/stanislav/workspace/skeletons/finch-spray-rest-api/src/main/scala/com/itrative/services/TaskService.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ONjI11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5OOuHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5OtfLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5O+CNl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PTBbt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PabIB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PcrVh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5Pcx4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PiMaZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PjK8d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5PjQxV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9ob21lL3N0YW5pc2xhdi93b3Jrc3BhY2Uvc2tlbGV0b25zL2ZpbmNoLXNwcmF5LXJlc3QtYXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
